@@ -48,4 +48,10 @@ public class SetAlarmsActivity extends AppCompatActivity {
         newFragment.show(getFragmentManager(), "TimePicker");
     }
 
+    public void onTueBtn(View v) {
+        Log.d("tag", "onTueBtn entered");
+        DialogFragment newFragment = new TimePickerFragment()
+
+    }
+
 }
