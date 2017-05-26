@@ -145,7 +145,7 @@
         android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:onClick="onMonBtn"
+        android:onClick="onSatBtn"
         android:text="Set"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button7" />
@@ -170,7 +170,7 @@
         android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:onClick="onMonBtn"
+        android:onClick="onFriBtn"
         android:text="Set"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button6" />
@@ -195,7 +195,7 @@
         android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:onClick="onMonBtn"
+        android:onClick="onThuBtn"
         android:text="Set"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/setMon" />
@@ -206,7 +206,7 @@
         android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:onClick="onMonBtn"
+        android:onClick="onSunBtn"
         android:text="Set"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button8" />
@@ -258,7 +258,7 @@
         android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:onClick="onMonBtn"
+        android:onClick="onTueBtn"
         android:text="Set"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
@@ -294,7 +294,7 @@
         android:layout_height="50dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:onClick="onMonBtn"
+        android:onClick="onWedBtn"
         android:text="Set"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />

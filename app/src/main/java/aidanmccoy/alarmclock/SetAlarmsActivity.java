@@ -55,4 +55,38 @@ public class SetAlarmsActivity extends AppCompatActivity {
 
     }
 
+    public void onWedBtn(View v) {
+        Log.d("tag", "onWedBtn entered");
+        DialogFragment newFragment = new TimePickerFragment();
+        newFragment.show(getFragmentManager(), "TimePicker");
+
+    }
+
+    public void onThuBtn(View v) {
+        Log.d("tag", "onThuBtn entered");
+        DialogFragment newFragment = new TimePickerFragment();
+        newFragment.show(getFragmentManager(), "TimePicker");
+
+    }
+
+    public void onFriBtn(View v) {
+        Log.d("tag", "onFriBtn entered");
+        DialogFragment newFragment = new TimePickerFragment();
+        newFragment.show(getFragmentManager(), "TimePicker");
+
+    }
+
+    public void onSatBtn(View v) {
+        Log.d("tag", "onSatBtn entered");
+        DialogFragment newFragment = new TimePickerFragment();
+        newFragment.show(getFragmentManager(), "TimePicker");
+
+    }
+
+    public void onSunBtn(View v) {
+        Log.d("tag", "onSunBtn entered");
+        DialogFragment newFragment = new TimePickerFragment();
+        newFragment.show(getFragmentManager(), "TimePicker");
+
+    }
 }
