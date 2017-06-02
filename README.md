@@ -18,3 +18,8 @@ Once you have your location set, your alarms will only go off if you are at home
 Now that we only have alarms going off when we need them, we need them to be set automatically as well to complete the automation functionality. Alarmclock++ integrates with the users Google Calendar getting a list of events for each day. Based off of these events, it then grabs the first event of each day and sets the alarm accordingly. This action is done by selecting the set alarms with calendar option on the set alarms screen. This then takes you to a calendar screen to view events for each upcoming day. If there are no events for that day, no alarms are set and you are free to sleep in!!!
 
 ![Calendar](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Screenshot%20from%202017-06-02%2014-30-07.png)
+
+
+Here is an overall class diagram representing the structure of the program
+
+![Class Diagram](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Alarmclock%2B%2B%20Class%20diagram.png)
