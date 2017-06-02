@@ -1,1 +1,5 @@
-# spring2017-project-amccoy
+# Alarmclock++
+# Aidan McCoy Spring 2017
+
+
+
