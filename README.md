@@ -11,9 +11,11 @@ Alarmclock++ is an Android Application that is changing the way we set, manage a
 
 As we take alarm clocks to the next level, I have pushed the project towards full automation. Since alarm clocks are used to wake you up in time to make it to certain events, you only need an alarm if you are sleeping. In order to check your state, the application checks your current locaiton. When you set up this service, you set a home location. The application pulls this info from the location you have set as home on your google maps. This is shown below...
 
-![Location setting1](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Screenshot%20from%202017-05-19%2011-39-29.png)
+![Location setting1](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/SetLocation.png)
 
-![Location setting2](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Screenshot%20from%202017-05-19%2011-39-50.png)
+![Location setting2](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/LocationSet.png)
+![Location setting2](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Emulator.png)
+
 
 Once you have your location set, your alarms will only go off if you are at home. If you are somewhere else, the application assumes that you are awake and ready to make it to where ever you are going.
 
@@ -28,6 +30,6 @@ Here is an overall class diagram representing the structure of the program
 
 # Design Patterns
 
-Singleton for locaiton listeners
+Singleton for locaiton listeners and google calendar
 
 Strategy pattern for setting alarm times
