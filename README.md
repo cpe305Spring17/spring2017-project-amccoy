@@ -25,3 +25,9 @@ Now that we only have alarms going off when we need them, we need them to be set
 Here is an overall class diagram representing the structure of the program
 
 ![Class Diagram](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Alarmclock%2B%2B%20Class%20diagram.png)
+
+# Design Patterns
+
+Singleton for locaiton listeners
+
+Strategy pattern for setting alarm times
