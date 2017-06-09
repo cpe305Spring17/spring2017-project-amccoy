@@ -13,8 +13,8 @@ As we take alarm clocks to the next level, I have pushed the project towards ful
 
 ![Location setting1](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/SetLocation.png)
 
-![Location setting2](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/LocationSet.png)
-![Location setting2](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Emulator.png)
+![Location setting2](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/LocaitonSet.png)
+![Location setting](https://github.com/cpe305Spring17/spring2017-project-amccoy/blob/master/Emulator.png)
 
 
 Once you have your location set, your alarms will only go off if you are at home. If you are somewhere else, the application assumes that you are awake and ready to make it to where ever you are going.
