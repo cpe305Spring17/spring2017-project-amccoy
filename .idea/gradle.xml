@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/media/aidanmccoy/2 TB/Documents/School Work/Cal Poly/305 CPE/next/AlarmClock++2" />
-            <option value="/media/aidanmccoy/2 TB/Documents/School Work/Cal Poly/305 CPE/next/AlarmClock++2/app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

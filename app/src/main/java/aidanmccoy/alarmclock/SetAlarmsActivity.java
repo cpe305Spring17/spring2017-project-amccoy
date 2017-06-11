@@ -2,6 +2,8 @@ package aidanmccoy.alarmclock;
 
 import android.app.DialogFragment;
 import android.content.Intent;
+import android.icu.util.*;
+import android.icu.util.Calendar;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -36,8 +38,8 @@ public class SetAlarmsActivity extends AppCompatActivity {
     }
 
     public void goToCalendar(View view) {
-        Intent intent = new Intent(this, Calendar.class);
-        startActivity(intent);
+//        Intent intent = new Intent(this, Calendar.class);
+//        startActivity(intent);
 
     }
 

@@ -114,6 +114,7 @@ public class SetPlaces extends AppCompatActivity {
         setPlace.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Log.d("Tag", "Set places on click listener entered");
                 PlacePicker.IntentBuilder builder = new PlacePicker.IntentBuilder();
                 Intent intent;
                 try {
